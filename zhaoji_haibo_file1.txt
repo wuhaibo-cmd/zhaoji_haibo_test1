@@ -1,1 +1,3 @@
 本地库的用户名是wuzhaoji，试图提交到远程仓库wuhaibo-cmd这里
+
+最后push的时候，需要提交username和password,我提交的是wuhaibo-cmd对应的用户名密码，然后windows credential manager也变成了wuhaibo-cmd对应的用户名和密码。
